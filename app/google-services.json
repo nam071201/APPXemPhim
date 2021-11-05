@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640968579837",
+    "project_id": "movie-phim-app",
+    "storage_bucket": "movie-phim-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640968579837:android:21d5d1b258ab99076ffc94",
+        "android_client_info": {
+          "package_name": "com.example.moviephimapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640968579837-nfcgsu32ahls5stvm81n1h02maosl9sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqLGAU7YigIuTzxC3gLcG6C5fZoqRNpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640968579837-nfcgsu32ahls5stvm81n1h02maosl9sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
